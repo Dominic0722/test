@@ -14,3 +14,35 @@
                 <div class="box">
                     <dt>Adobe Illustrator <img src="./img/ico1.svg" alt="illustratorIco"></dt>
                     <dd>벡터 기반의 그래픽 디자인과 아이콘 제작을 통해 선명하고 확장 가능한 디자인을 제공하며, 다양한 디자인 작업을 수행할 수 있습니다.</dd></div>
+<div class="box">
+                    <dt>Adobe Illustrator <img src="./img/ico1.svg" alt="illustratorIco"></dt>
+                    <dd>벡터 기반의 그래픽 디자인과 아이콘 제작을 통해 선명하고 확장 가능한 디자인을 제공하며, 다양한 디자인 작업을 수행할 수 있습니다.</dd></div>
+                <div class="box">
+                    <dt>Adobe Illustrator <img src="./img/ico1.svg" alt="illustratorIco"></dt>
+                    <dd>벡터 기반의 그래픽 디자인과 아이콘 제작을 통해 선명하고 확장 가능한 디자인을 제공하며, 다양한 디자인 작업을 수행할 수 있습니다.</dd></div><div class="box">
+                    <dt>Adobe Illustrator <img src="./img/ico1.svg" alt="illustratorIco"></dt>
+                    <dd>벡터 기반의 그래픽 디자인과 아이콘 제작을 통해 선명하고 확장 가능한 디자인을 제공하며, 다양한 디자인 작업을 수행할 수 있습니다.</dd></div>
+                <div class="box">
+                    <dt>Adobe Illustrator <img src="./img/ico1.svg" alt="illustratorIco"></dt>
+                    <dd>벡터 기반의 그래픽 디자인과 아이콘 제작을 통해 선명하고 확장 가능한 디자인을 제공하며, 다양한 디자인 작업을 수행할 수 있습니다.</dd></div><div class="box">
+                    <dt>Adobe Illustrator <img src="./img/ico1.svg" alt="illustratorIco"></dt>
+                    <dd>벡터 기반의 그래픽 디자인과 아이콘 제작을 통해 선명하고 확장 가능한 디자인을 제공하며, 다양한 디자인 작업을 수행할 수 있습니다.</dd></div>
+                <div class="box">
+                    <dt>Adobe Illustrator <img src="./img/ico1.svg" alt="illustratorIco"></dt>
+                    <dd>벡터 기반의 그래픽 디자인과 아이콘 제작을 통해 선명하고 확장 가능한 디자인을 제공하며, 다양한 디자인 작업을 수행할 수 있습니다.</dd></div>
+<div class="box">
+                    <dt>Adobe Illustrator <img src="./img/ico1.svg" alt="illustratorIco"></dt>
+                    <dd>벡터 기반의 그래픽 디자인과 아이콘 제작을 통해 선명하고 확장 가능한 디자인을 제공하며, 다양한 디자인 작업을 수행할 수 있습니다.</dd></div>
+                <div class="box">
+                    <dt>Adobe Illustrator <img src="./img/ico1.svg" alt="illustratorIco"></dt>
+                    <dd>벡터 기반의 그래픽 디자인과 아이콘 제작을 통해 선명하고 확장 가능한 디자인을 제공하며, 다양한 디자인 작업을 수행할 수 있습니다.</dd></div><div class="box">
+                    <dt>Adobe Illustrator <img src="./img/ico1.svg" alt="illustratorIco"></dt>
+                    <dd>벡터 기반의 그래픽 디자인과 아이콘 제작을 통해 선명하고 확장 가능한 디자인을 제공하며, 다양한 디자인 작업을 수행할 수 있습니다.</dd></div>
+                <div class="box">
+                    <dt>Adobe Illustrator <img src="./img/ico1.svg" alt="illustratorIco"></dt>
+                    <dd>벡터 기반의 그래픽 디자인과 아이콘 제작을 통해 선명하고 확장 가능한 디자인을 제공하며, 다양한 디자인 작업을 수행할 수 있습니다.</dd></div><div class="box">
+                    <dt>Adobe Illustrator <img src="./img/ico1.svg" alt="illustratorIco"></dt>
+                    <dd>벡터 기반의 그래픽 디자인과 아이콘 제작을 통해 선명하고 확장 가능한 디자인을 제공하며, 다양한 디자인 작업을 수행할 수 있습니다.</dd></div>
+                <div class="box">
+                    <dt>Adobe Illustrator <img src="./img/ico1.svg" alt="illustratorIco"></dt>
+                    <dd>벡터 기반의 그래픽 디자인과 아이콘 제작을 통해 선명하고 확장 가능한 디자인을 제공하며, 다양한 디자인 작업을 수행할 수 있습니다.</dd></div>
